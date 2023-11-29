@@ -15,7 +15,7 @@
         <button class="button">
             <span>Ingresar</span></button>
         <p><a href="#">¿Olvidaste tu Contraseña?</a></p>
-        <p>¿No tienes cuenta? <a href="#">Registrate.</a></p>
+        <p>¿No tienes cuenta? <a href="registro.html">Registrate.</a></p>
     </section>
     
 </body>
