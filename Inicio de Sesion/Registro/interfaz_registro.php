@@ -21,7 +21,7 @@
     </form>
         <!-- señalar las variables al archivo .php -->
         <?php
-        incluide("registro.php");
+        incluide("registrar.php");
         ?>
 </body>
 </html>
