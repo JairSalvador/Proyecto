@@ -1,8 +1,3 @@
-/* {
-    margin: 0;
-    padding: 0;
-    box-sizing: 0;
-} */
 
 body {
     font-family: Arial;
@@ -85,4 +80,29 @@ body {
 .form-login a:hover{
     text-decoration: underline;
 
+}
+.bien {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 50%;
+    padding: 12px;
+    background-color: #1e6;
+    color: #fff;
+    border-bottom: 8px;
+    margin-left: 325px;
+    box-shadow: 7px 13px 50px #000;
+}
+
+.fallo {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 50%;
+    padding: 12px;
+    background-color: #a22;
+    color: #fff;
+    border-bottom: 8px;
+    margin-left: 325px;
+    box-shadow: 7px 13px 50px #000;
 }
