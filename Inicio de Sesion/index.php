@@ -15,7 +15,7 @@
             <input class="controls" type="password" name="contrasena" value="" placeholder="Contraseña">
             <input class="button" type="submit" value="Ingresar" name="boton">
             <p><a href="#">¿Olvidaste tu Contraseña?</a></p>
-            <p>¿No tienes cuenta? <a href="Registro\interfaz_registro.php">Registrate.</a></p>
+            <p>¿No tienes cuenta? <a href="\interfaz_registro.php">Registrate.</a></p>
         </section>
     </form>
     <?php
